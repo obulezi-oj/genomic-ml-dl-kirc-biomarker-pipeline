@@ -1,4 +1,4 @@
-# Leak-Free Transcriptomic Machine Learning & Deep Learning Benchmarking Pipeline (TCGA-KIRC)
+Leak-Free Transcriptomic Machine Learning & Deep Learning Benchmarking Pipeline (TCGA-KIRC)
 
 An end-to-end, reproducible bioinformatics and statistical machine learning pipeline in R for bulk RNA-sequencing biomarker discovery, model calibration, and clinical decision-support benchmarking in Clear Cell Renal Cell Carcinoma (**TCGA-KIRC**).
 
